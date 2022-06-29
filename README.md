@@ -245,3 +245,9 @@ void check(){
    }
 }
 ```
+
+## Limitations
+Since this project was made with a 8051 microcontroller it cannot power high power devices. They are outdated, 8-bit and a bit slow. It can only perform a limited number of actions simultaneously. We need external circuitry for this microcontroller and also these do not have an in-built ADC and it has lesser frequency as compared to the other microcontrollers.
+
+## Improvement of the project
+I do plan of improving the project by creating an alarm system that sounds an alarm after 5 (or any number) consecutive wrong attempts and also cretaing a modifiable password system where we can modify the password whenever we wish.
