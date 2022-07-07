@@ -245,6 +245,8 @@ void check(){
    }
 }
 ```
+## Flowchart
+![Image](password-flow.png)
 
 ## Limitations
 Since this project was made with a 8051 microcontroller it cannot power high power devices. They are outdated, 8-bit and a bit slow. It can only perform a limited number of actions simultaneously. We need external circuitry for this microcontroller and also these do not have an in-built ADC and it has lesser frequency as compared to the other microcontrollers.
